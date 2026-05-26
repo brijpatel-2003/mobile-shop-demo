@@ -1,0 +1,10 @@
+# City Gold Mobile Store – https://citygoldmobile.github.io/
+
+User-agent: *
+Allow: /
+
+# Crawl-delay for all bots
+Crawl-delay: 5
+
+# Priority sitemap
+Sitemap: https://citygoldmobile.github.io/sitemap.xml
